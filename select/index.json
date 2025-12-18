@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dreamin",
+  "base_artist": "PARTYNEXTDOOR",
+  "createdAt": "2025-12-18T18:27:40.576106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "American Dreamin'",
+      "artist": "Brooke Eden",
+      "has_synced": true,
+      "path": "select/01_American_Dreamin'_Brooke_Eden.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamin'",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": true,
+      "path": "select/02_Dreamin'_Les_Rythmes_Digitales.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamin",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/03_Dreamin_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreamin'",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/04_Dreamin'_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midsummer Nights Dreamin'",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/05_Midsummer_Nights_Dreamin'_Travis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreamin Of The Past (feat. Kanye West)",
+      "artist": "Pusha T feat. Kanye West",
+      "has_synced": true,
+      "path": "select/06_Dreamin_Of_The_Past_(feat._Kanye_West)_Pusha_T_feat._Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dreamin of the Past (feat. Kanye West)",
+      "artist": "Pusha T",
+      "has_synced": true,
+      "path": "select/07_Dreamin_of_the_Past_(feat._Kanye_West)_Pusha_T.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dreamin' the Dream",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Dreamin'_the_Dream_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "California Dreamin'",
+      "artist": "DJ Sammy",
+      "has_synced": true,
+      "path": "select/09_California_Dreamin'_DJ_Sammy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "California Dreamin'",
+      "artist": "Wilson Phillips",
+      "has_synced": true,
+      "path": "select/10_California_Dreamin'_Wilson_Phillips.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "California Dreamin",
+      "artist": "The Mamas & The Papas",
+      "has_synced": true,
+      "path": "select/11_California_Dreamin_The_Mamas_&_The_Papas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "California Dreamin’",
+      "artist": "The Mamas & the Papas",
+      "has_synced": true,
+      "path": "select/12_California_Dreamin’_The_Mamas_&_the_Papas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Must Be Dreamin'",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/13_I_Must_Be_Dreamin'_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dreamin' On",
+      "artist": "Howard Jones",
+      "has_synced": true,
+      "path": "select/14_Dreamin'_On_Howard_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dreamin' About U",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/15_Dreamin'_About_U_Prince.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "American Dreamin'",
+      "artist": "JAY Z",
+      "has_synced": true,
+      "path": "select/16_American_Dreamin'_JAY_Z.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dreamin'",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/17_Dreamin'_Weezer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreamin",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": false,
+      "path": "select/pl_01_Dreamin_PARTYNEXTDOOR.txt"
+    }
+  ]
+}
